@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @sagar-harry
+- 👋 Hi, I’m Konni Vidya Sagar
 - 👀 I’m interested in Data Science
 - 🌱 I’m currently working on Deep Neural networks
 - 💞️ I’m looking to collaborate on projects involving ML and more specifically DL
