@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Konni Vidya Sagar
-- 👀 I’m interested in Machine learning
-- 🌱 I’m currently working on Deep Neural networks
-- 💞️ I’m looking to collaborate on projects involving ML and more specifically DL
+-  Hi, I’m Konni Vidya Sagar
+-  I’m an AI enthusiast
+-  I’m currently working on Deep Neural networks
+-  I’m looking forward to collaborate on projects involving ML and more specifically DL
 - 📫Reach me : 10vidyasagar@gmail.com
 
 <!---
